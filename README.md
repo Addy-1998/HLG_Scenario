@@ -27,7 +27,7 @@ dependency management. If you don't have uv:
 curl -LsSf https://astral.sh/uv/install.sh | sh
 ```
 
-Then clone and sync — uv creates the virtual environment and installs
+Then clone and sync uv. This creates the virtual environment and installs
 everything (including the `elgss` package itself) from `pyproject.toml`:
 
 ```bash
